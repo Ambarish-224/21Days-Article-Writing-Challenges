@@ -14,7 +14,8 @@ And, I am Updating My All Day Article link Day-wise Below and I also Uploads all
 <br><h2 align="left"> Day-wise Article Links:-</h2> <br>
 Day_1 --> [ Getting Started with Machine Learning: A Beginner’s Guide ](https://medium.com/@Ambarish_224/getting-started-with-machine-learning-a-beginners-guide-1be064e581f6)<br>
 Day_2 --> [ Web Scraping with Python: A Beginner’s Guide ](https://medium.com/@Ambarish_224/web-scraping-with-python-a-beginners-guide-64008b805da)<br>
-Day_3 --> [ Overfitting and Underfitting in practice: common scenarios and solutions](https://link.medium.com/dUtMemA6Evb)
+Day_3 --> [ Overfitting and Underfitting in practice: common scenarios and solutions](https://link.medium.com/dUtMemA6Evb)<br>
+Day_4 --> [ Supervised learning: A beginner's Guide ]( https://medium.com/@Ambarish_224/supervised-learning-a-beginners-guide-1737f09e0eff )
 
 
 
