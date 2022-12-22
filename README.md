@@ -21,13 +21,13 @@ Day_6 --> [The Beginner’s Guide to Unsupervised Learning in Machine Learning](
 Day_7 --> [ Getting Started With Regression in Machine Learning: A Beginner’s Guide ](https://medium.com/@Ambarish_224/getting-started-with-regression-in-machine-learning-a-beginners-guide-1277f09f2b42)<br>
 Day_8 --> [Cluster in Machine Learning: A Beginner’s Guide ](https://medium.com/@Ambarish_224/cluster-in-machine-learning-a-beginners-guide-efac04bf5da6 )<br>
 Day_9 --> [Introduction to Classification: Understanding the Basics ](https://medium.com/@Ambarish_224/introduction-to-classification-understanding-the-basics-793b9cd4f56)<br>
-
-
 Day_10 --> [The Fundamentals and Applications of Linear Regression. ](https://medium.com/@Ambarish_224/the-fundamentals-and-applications-of-linear-regression-320ffd480b44)<br>
 Day_11 --> [Regularization in Machine Learning: A Beginner’s Guide ](https://medium.com/@Ambarish_224/regularization-in-machine-learning-a-beginners-guide-120ccb763a23 )<br>
+
+
 Day_12 --> [Google Developer: Your Key to Success in the World of Development ](https://medium.com/@Ambarish_224/google-developer-your-key-to-success-in-the-world-of-development-b4980cc8c8e7 )<br>
 Day_13 --> [Get More Out of Your Google Developer Account with These Pro Tips ](https://medium.com/@Ambarish_224/get-more-out-of-your-google-developer-account-with-these-pro-tips-1d7406898b66 )<br>
-Day_14 --> [Google Developer: A Beginner’s Helping Guide ]( )<br>
+
 
 
 
