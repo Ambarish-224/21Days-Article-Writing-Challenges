@@ -36,7 +36,7 @@ Day_21 --> [AI: The Game-Changing Technology of the 21st Century ](https://mediu
 
 
 
-<h3 align="left">  Thank You Lord Krishna For Supporting Me In Completing My #21Days-Article-Writing-Challenges. Thank You All Who Support me Directly Or InDirectly in Completion of this #21Days-Article-Writing-Challenges. </h3> <br>
+<h3 align="left">  Thank You Lord Krishna For Supporting Me In Completing My #21Days-Article-Writing-Challenges. <br> Thank You All Who Support me Directly Or InDirectly in Completion of this #21Days-Article-Writing-Challenges. </h3> <br>
 
 
 
