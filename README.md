@@ -32,6 +32,15 @@ Day_17 --> [Evaluation Matrix: Your Key to Unlocking the Full Potential of Your 
 Day_18 --> [Unlock the Power of the Confusion Matrix ](https://medium.com/@Ambarish_224/unlock-the-power-of-the-confusion-matrix-189419bc7dc3)<br>
 Day_19 --> [Mastering the Bias-Variance Balance: Tips and Techniques](https://medium.com/@Ambarish_224/mastering-the-bias-variance-balance-tips-and-techniques-a75351a60855)<br>
 Day_20 --> [Revolutionize your machine learning workflow with LazyPredict AutoML](https://medium.com/@Ambarish_224/revolutionize-your-machine-learning-workflow-with-lazypredict-automl-5f6233a9f68e)<br>
-Day_21 --> [AI: The Game-Changing Technology of the 21st Century ](https://medium.com/@Ambarish_224/ai-the-game-changing-technology-of-the-21st-century-61abeb130f1d)<br>
+Day_21 --> [AI: The Game-Changing Technology of the 21st Century ](https://medium.com/@Ambarish_224/ai-the-game-changing-technology-of-the-21st-century-61abeb130f1d)<br><br>
+
+
+
+<h3 align="left">  Thank You Lord Krishna For Supporting Me In Completing My #21Days-Article-Writing-Challenges. Thank You All Who Support me Directly Or InDirectly in Completion of this #21Days-Article-Writing-Challenges. </h3> <br>
+
+
+
+<h3 align="left"> Love & Respect <br> Ambarish Singh  </h3> <br>
+
 
 
