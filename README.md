@@ -30,5 +30,8 @@ Day_15 --> [The Ultimate Guide to Selecting the Right ML Model](https://medium.c
 Day_16 --> [Maximize Your Productivity: Top Strategies for Managing Your Project Content](https://medium.com/@Ambarish_224/maximize-your-productivity-top-strategies-for-managing-your-project-content-3f273d5aa199 )<br>
 Day_17 --> [Evaluation Matrix: Your Key to Unlocking the Full Potential of Your Machine Learning Models ](https://medium.com/@Ambarish_224/evaluation-matrix-your-key-to-unlocking-the-full-potential-of-your-machine-learning-models-9648b6356a4 )<br>
 Day_18 --> [Unlock the Power of the Confusion Matrix ](https://medium.com/@Ambarish_224/unlock-the-power-of-the-confusion-matrix-189419bc7dc3)<br>
+Day_19 --> [Mastering the Bias-Variance Balance: Tips and Techniques](https://medium.com/@Ambarish_224/mastering-the-bias-variance-balance-tips-and-techniques-a75351a60855)<br>
+Day_20 --> [Revolutionize your machine learning workflow with LazyPredict AutoML](https://medium.com/@Ambarish_224/revolutionize-your-machine-learning-workflow-with-lazypredict-automl-5f6233a9f68e)<br>
+Day_21 --> [AI: The Game-Changing Technology of the 21st Century ](https://medium.com/@Ambarish_224/ai-the-game-changing-technology-of-the-21st-century-61abeb130f1d)<br>
 
 
